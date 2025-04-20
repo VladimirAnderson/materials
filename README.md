@@ -1,6 +1,7 @@
 # materials
 
 ![Components](https://github.com/user-attachments/assets/a52683f9-3b16-410f-b21a-7bfa8be6897f)
+![communicationProc](https://github.com/user-attachments/assets/58e48744-b712-4522-9113-c671535792a5)
 
  
 
